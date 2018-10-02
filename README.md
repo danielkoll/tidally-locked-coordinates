@@ -5,7 +5,7 @@ These transformations are useful for plotting and anaylzing GCM simulations of s
 Adapted from Koll & Abbot 2015, Fig.1.
 
 The resulting output looks like this.
-![An example plot](plot01.png)
+![An example plot](plot01.png =250x250)
 
 Original code by dkoll.
 Thanks to Huanzhou Yang for testing and improvements.
