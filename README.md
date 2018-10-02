@@ -4,8 +4,8 @@ These transformations are useful for plotting and anaylzing GCM simulations of s
 <img src="KollAbbot_Fig1.png" width="500">
 Adapted from Koll & Abbot 2015, Fig.1.
 
-The resulting output looks like this.
-![An example plot](plot01.png =250x250)
+The resulting outputs look like this.
+![An example plot](plot01.png)
 
 Original code by dkoll.
 Thanks to Huanzhou Yang for testing and improvements.
